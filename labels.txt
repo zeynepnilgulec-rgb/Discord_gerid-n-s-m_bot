@@ -1,0 +1,4 @@
+0 Plastik
+1 Kagit/ Karton
+2 Metal
+3 Yiyecek atik
